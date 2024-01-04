@@ -14,8 +14,10 @@ This is a simple ERC-20 token named "Coin" with symbol "cn" created by AITU_Alik
 ## Demo Screenshots
 
 Include screenshots or gifs here to showcase the usage of the contract, such as deploying the contract, calling the functions, and receiving the emitted events.
+
 ![2024-01-04_23-37-45](https://github.com/AlikhanSagatbekov/Assignment-1.BT/assets/129541689/844d1275-3af8-442a-ae45-7a4677835315)
 
+![2024-01-04_23-40-44](https://github.com/AlikhanSagatbekov/Assignment-1.BT/assets/129541689/6ef18e13-7a09-4db1-a92f-d24754ddef4f)
 
 
 ## Examples
